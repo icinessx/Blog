@@ -1,6 +1,6 @@
-* 简介
-    * [easyio库概况](md/easyio_lib.md)
-    * [配套开发板概况](md/esp32_iot_kit.md)
+* 3D打印机配置
+    * [KlipperScreen更换中文](md/KlipperScreen.md)
+    * [上位机配置](md/上位机配置.md)
 * Demo&API
     * [01_blink](md/01_blink.md)
     * [02_ledBlink](md/02_ledBlink.md)
